@@ -1,5 +1,7 @@
 # ImageEncoding
 
-A program I wrote that takes in a text file and encodes its data in an image file, and then then decode the image file back into the original text file.
+A program text file and encodes the data in an image file.
+
+You can then decode the image into the text file with the same program
 
 Provided is an example of what the program does when given the first chapter of Moby Dick.
