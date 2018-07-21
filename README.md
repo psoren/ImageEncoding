@@ -11,4 +11,4 @@ There now is your insular city of the Manhattoes, belted round by wharves as Ind
 
 And here is the image (corresponding to the whole first chapter).  Each character gets encoded as a single pixel.
 
-![alt Moby Dick Chapter 1] (https://github.com/psoren/ImageEncoding/blob/master/mobydick.png)
+![alt Moby Dick Chapter 1] (ImageEncoding/mobydick.png)
